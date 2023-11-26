@@ -22,7 +22,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged", 
+      "post-commit": "Thnks for commiting $GIT_AUTHOR_NAME"
     }
   }, 
   "lint-staged":{

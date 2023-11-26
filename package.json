@@ -8,7 +8,7 @@
     "lint": "eslint src/**",
     "lint-fix": "eslint src/** --fix",
     "lint-fix1": "eslint tests/** --fix",
-    "success-message" : "echo Thanks for commiting $GIT_AUTHOR_NAME"
+    "success-message" : "echo Thanks for commiting so $GIT_AUTHOR_NAME"
   },
   "keywords": [],
   "author": "",
